@@ -1,0 +1,14 @@
+¿Que es una base de datos?
+
+Es  una colección de informaciones que se almacenan y se pueden recuperar rapido y paquetes de sofware que controla y almacena datos 
+
+¿Qué paradigmas de base de datos conoces? 
+base de datos de memoria.
+
+¿En qué consiste cada paradigma y cuáles son sus ventajas? 
+
+Modelo Relacional: Estructura organizada, integridad de datos, consultas potentes.
+Modelo NoSQL: Flexibilidad para datos no estructurados.
+Modelo Orientado a Objetos: Representación directa de objetos.
+Modelo en Red y Jerárquico: Representación de relaciones complejas.
+Bases de Datos en Memoria: Acceso ultrarrápido a los datos.
